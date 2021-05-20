@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 500">
+  <defs>
+    <style>
+      .a {
+        fill: #ff0;
+      }
+
+      .b {
+        font-size: 47px;
+        fill: #1b1464;
+        font-family: ArialMT, Arial;
+      }
+    </style>
+  </defs>
+  <image width="1667" height="938" transform="translate(99.8 25) scale(0.48)" xlink:href="island21.png"/>
+  <rect class="a" x="324" y="171" width="148" height="148"/>
+  <circle class="a" cx="605.5" cy="166.5" r="29.5"/>
+  <circle class="a" cx="558.5" cy="366.5" r="32.5"/>
+  <rect class="a" x="702" y="269" width="54" height="54"/>
+  <text class="b" transform="translate(515.4 231.8)">Hello</text>
+</svg>
